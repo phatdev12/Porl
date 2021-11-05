@@ -1,0 +1,8 @@
+data: <data>>> : [
+    string: {
+        "name": "Tu Thang Phat",
+        "age": "1000",
+        "address": "unknown",
+        "hello": "ahihi"
+    }
+]

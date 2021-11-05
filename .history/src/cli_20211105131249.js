@@ -1,0 +1,1 @@
+require('./__init__/main').run(process.argv)

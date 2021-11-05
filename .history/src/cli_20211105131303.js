@@ -1,0 +1,1 @@
+require('./main/main').run(process.argv)

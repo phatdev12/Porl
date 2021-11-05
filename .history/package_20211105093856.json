@@ -1,0 +1,26 @@
+{
+  "name": "porl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "porl"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "porl": "./bin/main"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "esm": "^3.2.25",
+    "fs": "^0.0.1-security",
+    "yargs": "^17.2.1"
+  }
+}
